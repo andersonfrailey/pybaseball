@@ -51,3 +51,5 @@ from .retrosheet import all_star_game_logs
 from .retrosheet import wild_card_logs
 from .retrosheet import division_series_logs
 from .retrosheet import lcs_logs
+from .plotting import plot_stadium
+from .plotting import spraychart
